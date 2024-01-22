@@ -1,0 +1,1 @@
+Just build an UI clon of twitter i also make it responsive just build for practicing tailwind
